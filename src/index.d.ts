@@ -2,4 +2,4 @@
 // telephony typings file.
 //--------------------------
 
-export * from './onesignal.ios'
+export const TnsOneSignal:any;
